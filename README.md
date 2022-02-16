@@ -28,3 +28,4 @@
 
 ## Preview.
 
+<p align="center"><img src="./assets/img/cobrinha.gif" title="Snake Game - DIO"></p>
