@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+
+body {
+    margin-top: -80px;
+    color: rgb(37, 58, 35);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('../img/fundo.jpg');
+    background-size: cover;
+    font-family: 'Cute Font', cursive;
+    font-size: 60px;
+}
+#snake {
+    margin-top: -80px;
+    border: solid 10px rgb(37, 58, 35);
+    border-radius: 15px;
+}
+
+.container {
+    margin-top: -15px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+}
+
+.ptn-Pontos {
+    display: flex;
+    position: relative;
+    left: 5%;
+    margin-top: 3%;  
+    font-size: 90px;
+}
+
+
+#pontuacao {
+    position: flex;
+    left: 18%;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 38px;
+}
+
